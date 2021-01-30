@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+  border-radius: 10px;
+}
+input{
+  width:80%;
+}
+#header{
+  color:rgb(180, 178, 178);
+  font-style:italic;
+font-size: 50px;
+background-color: rgb(13, 119, 219);
+}
+.table{
+  margin-left: 10%;
+  width:80%;
+}
+body{
+  background-color: lightgray;
+}
+#userName, #password{
+  width:200px;
+  margin-top:20px;
+  margin-left:28%;
+}
+.logo{
+  color:blue;
+  font-size: 40px;
+  text-align: center;
+  font-style: italic;
+}
+.error{
+  color:rgb(59, 184, 28);
+  font-size: 18px;
+  width: 70%;
+  margin-left: 20%;
+}
+.userplace{
+  float: left;
+  font-size: 25px;
+  color:rgb(153, 28, 184);
+}
+
